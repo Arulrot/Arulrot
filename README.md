@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">⚠️I'm a Curious Problem Solver – I love diving deep into challenges and finding creative solutions that are both practical and impactful.<br>💻I'm a Tech Explorer – Constantly experimenting with new tools and technologies, I enjoy staying ahead in the tech world by learning and adapting.<br>⭐I believe in the power of teamwork and thrive in environments where ideas are shared and built upon collectively.</p>
+<p align="left">⚠️I'm a Curious Problem Solver – I love diving deep into challenges and finding creative solutions that are both practical and impactful.<br><br>💻I'm a Tech Explorer – Constantly experimenting with new tools and technologies, I enjoy staying ahead in the tech world by learning and adapting.<br><br>⭐I believe in the power of teamwork and thrive in environments where ideas are shared and built upon collectively.</p>
 
 ###
 
@@ -39,10 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Arulrot/Arulrot/output/snake.svg" alt="Snake animation" />
 
 ###
 
